@@ -1,7 +1,7 @@
 # Wireshark-Traffic-Analysis
 Task 5: Capture and Analyze Network Traffic Using Wireshark
 
-Cyber Security Internship | Elevate Labs Author: Arti Pal Date: 13 November 2026
+Cyber Security Internship | Date: 13 November 2026
 
 # Overview
 
